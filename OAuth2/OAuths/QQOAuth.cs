@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OAuth2
 {
-       public class QQOAuth : OAuth2Base
+          public class QQOAuth : OAuth2Base
     {
         internal override OAuthServer server
         {
