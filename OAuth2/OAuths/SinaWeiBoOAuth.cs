@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OAuth2
 {
-    public class SinaWeiBoOAuth : OAuth2Base
+      public class SinaWeiBoOAuth : OAuth2Base
     {
         internal override OAuthServer server
         {
